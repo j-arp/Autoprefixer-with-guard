@@ -1,0 +1,13 @@
+#primary p {
+  color: #00ff00;
+  width: 97%;
+  display:-webkit-box;
+  display:-webkit-flex;
+  display:-ms-flexbox;
+  display:flex;
+
+  .redbox {
+    background-color: #0000cc;
+    color: #000000;
+  }
+}
