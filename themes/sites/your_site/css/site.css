@@ -5,6 +5,7 @@
   display:-webkit-flex;
   display:-ms-flexbox;
   display:flex;
+  background-color: #cc0000;
 
   .redbox {
     background-color: #0000cc;
